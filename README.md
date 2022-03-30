@@ -2,4 +2,5 @@
 ### Backend
 start server using - npm run dev 
 
-### npm start for - npm start
+### Frontend
+npm start using - npm start
